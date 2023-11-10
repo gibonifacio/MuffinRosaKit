@@ -11,6 +11,7 @@ public struct VerdadeView: View{
         
         
         Text("oi")
+        Text("eu")
     }
 }
 
