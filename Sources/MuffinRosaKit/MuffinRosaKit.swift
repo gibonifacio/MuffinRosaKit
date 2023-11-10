@@ -13,6 +13,7 @@ public struct VerdadeView: View{
         Text("oi")
         Text("eu")
         Text("aaaaa")
+        Text("que odio")
     }
 }
 
